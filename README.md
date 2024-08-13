@@ -1,5 +1,5 @@
 # FROD
-The code and dataset for paper "Weakly-Supervised Outlier Detection With Fuzzy Rough Sets".
+The code and dataset for our paper "Weakly-supervised outlier detection in mixed-attribute data with fuzzy rough sets".
 
 ## Datasets
 We use 16 public datasets to assess the model performances, including 2 nominal, 2 mixed, and 12 numerical datasets. The details of the datasets are provided in below table: 
